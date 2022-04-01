@@ -16,8 +16,5 @@ setup(
         'tensorboard',
         'tensorflow',
         'tqdm',
-        'unets @ git+https://github.com/jatentaki/unets.git@no_norm_at_start',
-        'torch-localize @ git+https://github.com/jatentaki/torch-localize.git@flatten',
-        'torch-dimcheck @ git+https://github.com/jatentaki/torch-dimcheck.git',
     ],
 )
